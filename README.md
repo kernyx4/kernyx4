@@ -1,63 +1,65 @@
-# Hi there, I'm Hawa Kane (Awa Ndiaye) 👋 
-### 🔒 Aspiring DevSecOps Engineer & AI Security Specialist | L2 Software Engineering & Cybersecurity
+# ⚡ Salut, moi c'est Hawa Kane 👋
 
-Welcome to my GitHub profile! I am a passionate Computer Science student specializing in **Offensive Security**, **Penetration Testing**, and **DevSecOps**. I focus on bridging the gap between software development and robust security practices.
+### 🔒 **Étudiante en Double Cursus (Génie Logiciel & Cybersécurité)
 
----
-
-### 🚀 About Me
-
-- 🎓 **Education:** Dual-degree student in L2 Software Engineering (ISI) & Cybersecurity (UN-CHK).
-- 🛡️ **Specialization:** Blue Team defense, IDS/IPS configuration, Web Application Security, and Ethical Hacking.
-- 🏢 **Training:** Cybersecurity Fellow at **Orange Digital Center Sonatel Academy** (Cohort 1).
-- 🏆 **Certifications:** 
-  - Google Cybersecurity Professional Certificate
-  - Microsoft Full-Stack Developer Certificate
-  - Hackviser Core & CLLMSP (Certified LLM Security Professional)
-  - Cisco Networking Essentials & Introduction to Cybersecurity
-  - COFPS (Hack & Fix)
+> *« Passionnée par la cybersécurité offensive et le développement sécurisé, je conçois des solutions robustes et j'analyse la vulnérabilité des systèmes pour anticiper les menaces de demain. »*
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-**Languages & Backend:**
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Cybersecurity & DevOps Tools:**
-![Snort](https://img.shields.io/badge/Snort_IDS-000000?style=for-the-badge&logo=snort&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-167DA5?style=for-the-badge&logo=wireshark&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Cloud & Databases:**
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-### 📊 GitHub Stats & TryHackMe
+### 🛠️ Langages de Programmation
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kernyx4&show_icons=true&theme=tokyonight&count_private=true" alt="Hawa's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kernyx4&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
 ---
 
-### 📌 Featured Projects
+### 🛡️ Sécurité & Outils Système
 
-- 🛡️ **[snort-ids-lab](https://github.com/kernyx4/snort-ids-lab):** Snort IDS installation, custom rule writing (`local.rules`), and detection of ICMP, SYN Scans, HTTP Path Traversal, and SSH Brute Force attacks.
-- 🚀 **GL HUB:** Collaborative web platform built for Software Engineering students with Supabase & Vercel.
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Snort_IDS-000000?style=for-the-badge&logo=snort&logoColor=white" alt="Snort" />
+  <img src="https://img.shields.io/badge/Wireshark-167DA5?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
+  <img src="https://img.shields.io/badge/GNS3-000000?style=for-the-badge&logo=gns3&logoColor=white" alt="GNS3" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
 ---
 
-### 📫 Connect with me
+### 🎯 Environnements de Pratique & Labs
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hawa-kane)
+<p align="left">
+  <a href="https://academy.hackthebox.com/app/dashboard" target="_blank">
+    <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box" />
+  </a>
+  <a href="https://tryhackme.com/dashboard" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+  </a>
+  <a href="https://learn.cylabacademy.org/learning-paths?page=1" target="_blank">
+    <img src="https://img.shields.io/badge/CyLab_Security-000000?style=for-the-badge&logo=shield&logoColor=white" alt="CyLab Security Academy" />
+  </a>
+</p>
+
+---
+
+### 📌 Projet Vedette
+
+- 🛡️ **[snort-ids-lab](https://github.com/kernyx4/snort-ids-lab) :** Déploiement d'un IDS Snort sur Ubuntu, écriture de règles personnalisées (`local.rules`) et détection de scénarios d'attaques réseau (reconnaissance ICMP, scan SYN Nmap, path traversal HTTP et force brute SSH avec Hydra).
+
+---
+
+### 📬 Me contacter & Réseaux
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hawa-kane-7a3417441/)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/hawa-kane/badges/credly)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hawakane504@gmail.com)
